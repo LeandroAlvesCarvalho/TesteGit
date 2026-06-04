@@ -3,5 +3,5 @@ class universo:
         self.luz = "Estrelas"
         self.vacuo = "Materia Escura"
         self.astros = ["Planeta", "Lua", "Sol", "Buraco Negro"]
-        self.seres = ["Aliens", "Humanos", "Fantasmas"]
+        self.seres = ["Aliens", "Humanos", "Fantasmas", "Marcianos"]
 
